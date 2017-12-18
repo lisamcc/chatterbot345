@@ -1,0 +1,23 @@
+
+  / ____| |         | | | |          | |         | | |___ \| || | | ____| |
+ | |    | |__   __ _| |_| |_ ___ _ __| |__   ___ | |_  __) | || |_| |__ | |
+ | |    | '_ \ / _` | __| __/ _ \ '__| '_ \ / _ \| __||__ <|__   _|___ \| |
+ | |____| | | | (_| | |_| ||  __/ |  | |_) | (_) | |_ ___) |  | |  ___) |_|
+  \_____|_| |_|\__,_|\__|\__\___|_|  |_.__/ \___/ \__|____/   |_| |____/(_)
+Hello! I'm Chatterbot345!
+What is your name?me
+>>me: hi
+Chatterbot345: Hi. What is your favorite animal?
+>>me: elephant
+Chatterbot345: Wow those things can be crazy
+>>me: yeah they are huge
+Chatterbot345: Do you really think so?
+>>me: yes they are giant 
+Chatterbot345: Yay! We agree!
+>>me: that's good. Yesterday I did really well on my math test.
+Chatterbot345: Good Job! That's Awesome!
+>>me: Thanks!
+Chatterbot345: Uh, huh.
+>>me: I like to eat pancakes
+Chatterbot345: That's crazy, dude.
+>>me: 
